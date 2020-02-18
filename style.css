@@ -1,0 +1,23 @@
+*{
+  font-family: 'Muli', sans-serif;
+  background-color: mediumpurple;
+}
+
+.container1{
+  width: 1024px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.short-summary{
+  text-align: justify;
+  line-height: 30px;
+}
+
+.name-photo{
+  text-align: center;
+}
+
+.photo{
+  width: 30%;
+}
